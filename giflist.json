@@ -1,0 +1,14 @@
+[
+    {
+        "name": "gif1",
+        "url": "https://example.com/gif1.gif",
+        "premium": false,
+        "requiresAd": false
+    },
+    {
+        "name": "gif2",
+        "url": "https://example.com/gif2.gif",
+        "premium": true,
+        "requiresAd": true
+    }
+]
