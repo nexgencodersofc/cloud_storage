@@ -3,12 +3,300 @@
         "name": "gif1",
         "url": "https://i.imgur.com/5qxCUpS.gif",
         "premium": false,
-        "requiresAd": false
+        "rewarded": false
     },
     {
         "name": "gif2",
         "url": "https://i.imgur.com/dc8KuXs.gif",
         "premium": true,
-        "requiresAd": true
+        "rewarded": true
+    },
+    {
+        "name": "gif3",
+        "url": "https://i.imgur.com/5QyKOHk.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif4",
+        "url": "https://i.imgur.com/yMizJqL.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif5",
+        "url": "https://i.imgur.com/Ys6gAjl.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif6",
+        "url": "https://i.imgur.com/uUem03O.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif7",
+        "url": "https://i.imgur.com/Jx4aH1v.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif8",
+        "url": "https://i.imgur.com/PxTT3fN.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif9",
+        "url": "https://i.imgur.com/E05Nw92.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif10",
+        "url": "https://i.imgur.com/5LDJBri.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif11",
+        "url": "https://i.imgur.com/gP76n6s.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif12",
+        "url": "https://i.imgur.com/xBqd0HA.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif13",
+        "url": "https://i.imgur.com/4RZCjIX.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif14",
+        "url": "https://i.imgur.com/45ss0xq.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif15",
+        "url": "https://i.imgur.com/Yn8fU0r.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif16",
+        "url": "https://i.imgur.com/xk437FK.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif17",
+        "url": "https://i.imgur.com/x7P9ggs.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif18",
+        "url": "https://i.imgur.com/7nNIUE1.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif19",
+        "url": "https://i.imgur.com/y1xFetv.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif20",
+        "url": "https://i.imgur.com/nfeMKMN.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif21",
+        "url": "https://i.imgur.com/Tbo3BbB.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif22",
+        "url": "https://i.imgur.com/hFmBMB1.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif23",
+        "url": "https://i.imgur.com/nNhOcIo.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif24",
+        "url": "https://i.imgur.com/HmPK9rb.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif25",
+        "url": "https://i.imgur.com/vV1qo0V.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif26",
+        "url": "https://i.imgur.com/RgXwgU7.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif27",
+        "url": "https://i.imgur.com/zDIIR80.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif28",
+        "url": "https://i.imgur.com/ZigSDG4.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif29",
+        "url": "https://i.imgur.com/L0k6uQr.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif30",
+        "url": "https://i.imgur.com/PnZWhHn.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif31",
+        "url": "https://i.imgur.com/6wpUY9C.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif32",
+        "url": "https://i.imgur.com/pTypiQE.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif33",
+        "url": "https://i.imgur.com/t3Z9cfD.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif34",
+        "url": "https://i.imgur.com/BjWjJ1V.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif35",
+        "url": "https://i.imgur.com/yb6pj91.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif36",
+        "url": "https://i.imgur.com/ddM1RrZ.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif37",
+        "url": "https://i.imgur.com/qoUW9OG.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif38",
+        "url": "https://i.imgur.com/ntEmeSj.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif39",
+        "url": "https://i.imgur.com/PesKcmN.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif40",
+        "url": "https://i.imgur.com/Jj4cczh.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif41",
+        "url": "https://i.imgur.com/bzEykKb.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif42",
+        "url": "https://i.imgur.com/pwlWpLC.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif43",
+        "url": "https://i.imgur.com/3EjGU1q.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif44",
+        "url": "https://i.imgur.com/2zfw1wE.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif45",
+        "url": "https://i.imgur.com/HPQr2TC.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif46",
+        "url": "https://i.imgur.com/2aBqlvk.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif47",
+        "url": "https://i.imgur.com/4eGTqZd.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif48",
+        "url": "https://i.imgur.com/XMhTUb9.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif49",
+        "url": "https://i.imgur.com/Akc2Rck.gif",
+        "premium": false,
+        "rewarded": false
+    },
+    {
+        "name": "gif50",
+        "url": "https://i.imgur.com/6iqp1bQ.gif",
+        "premium": false,
+        "rewarded": false
     }
 ]
