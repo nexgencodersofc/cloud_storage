@@ -1,13 +1,13 @@
 [
     {
         "name": "gif1",
-        "url": "https://example.com/gif1.gif",
+        "url": "https://i.imgur.com/5qxCUpS.gif",
         "premium": false,
         "requiresAd": false
     },
     {
         "name": "gif2",
-        "url": "https://example.com/gif2.gif",
+        "url": "https://i.imgur.com/dc8KuXs.gif",
         "premium": true,
         "requiresAd": true
     }
