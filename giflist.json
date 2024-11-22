@@ -2,8 +2,8 @@
     {
         "name": "gif1",
         "url": "https://i.imgur.com/5qxCUpS.gif",
-        "premium": false,
-        "rewarded": false
+        "premium": true,
+        "rewarded": true
     },
     {
         "name": "gif2",
@@ -26,8 +26,8 @@
     {
         "name": "gif5",
         "url": "https://i.imgur.com/Ys6gAjl.gif",
-        "premium": false,
-        "rewarded": false
+        "premium": true,
+        "rewarded": true
     },
     {
         "name": "gif6",
@@ -56,14 +56,14 @@
     {
         "name": "gif10",
         "url": "https://i.imgur.com/5LDJBri.gif",
-        "premium": false,
-        "rewarded": false
+        "premium": true,
+        "rewarded": true
     },
     {
         "name": "gif11",
         "url": "https://i.imgur.com/gP76n6s.gif",
-        "premium": false,
-        "rewarded": false
+        "premium": true,
+        "rewarded": true
     },
     {
         "name": "gif12",
@@ -74,8 +74,8 @@
     {
         "name": "gif13",
         "url": "https://i.imgur.com/4RZCjIX.gif",
-        "premium": false,
-        "rewarded": false
+        "premium": true,
+        "rewarded": true
     },
     {
         "name": "gif14",
