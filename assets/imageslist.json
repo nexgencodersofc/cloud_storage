@@ -1,0 +1,20 @@
+[
+    {
+        "name": "img1",
+        "url": "https://i.imgur.com/j849oHA.jpeg",
+        "premium": false,
+        "requiresAd": false
+    },
+    {
+        "name": "img2",
+        "url": "https://i.imgur.com/oqFwlXj.jpeg",
+        "premium": false,
+        "requiresAd": false
+    },
+   {
+        "name": "img3",
+        "url": "https://i.imgur.com/PKz3n1C.jpeg",
+        "premium": false,
+        "requiresAd": false
+    }
+]
