@@ -2,8 +2,8 @@
     {
         "name": "img1",
         "url": "https://i.imgur.com/j849oHA.jpeg",
-        "premium": false,
-        "requiresAd": false
+        "premium": true,
+        "requiresAd": true
     },
     {
         "name": "img2",

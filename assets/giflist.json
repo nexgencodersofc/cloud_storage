@@ -2,8 +2,8 @@
     {
         "name": "gif1",
         "url": "https://i.imgur.com/5qxCUpS.gif",
-        "premium": true,
-        "requiresAd": true
+        "premium": false,
+        "requiresAd": false
     },
     {
         "name": "gif2",
@@ -32,8 +32,8 @@
     {
         "name": "gif6",
         "url": "https://i.imgur.com/uUem03O.gif",
-        "premium": false,
-        "requiresAd": false
+        "premium": true,
+        "requiresAd": true
     },
     {
         "name": "gif7",
